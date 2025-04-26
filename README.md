@@ -59,7 +59,7 @@ You need to set up the following environment variables:
 Run the following command to start the Flask server:
 
 ```bash
-python app.py
+python text2sql.py
 ```
 
 By default, the server runs on **port 84**. You can now interact with the application via the API.
