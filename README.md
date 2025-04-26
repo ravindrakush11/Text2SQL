@@ -37,8 +37,8 @@ It supports dynamic interaction with any PostgreSQL database, making it ideal fo
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/text2sql.git
-cd text2sql
+git clone https://github.com/ravindrakush11/Text2SQL.git
+cd Text2SQL
 ```
 
 ### 2. **Install Dependencies**
